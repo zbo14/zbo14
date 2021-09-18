@@ -7,4 +7,4 @@ I'm a backend software engineer interested in computer networking & web security
 
 Have a question/comment on something you see here? Want to build something together?
 
-📫 *You're welcome to [drop me a line](mailto:zmbalder@gmail.com)*
+📫 *You're welcome to [drop me a line](mailto:zach@zachh.me)*
