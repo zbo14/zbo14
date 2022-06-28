@@ -1,6 +1,6 @@
 ### Hey, it's Zach!
 
-I'm a backend software engineer interested in computer networking & web security.
+I'm a software engineer interested in building web applications.
 
 - ✍️ *What I've been [writing](https://zachh.me/blog)*
 - 🏗️ *What I've been [working on](https://zachh.me/projects)*
