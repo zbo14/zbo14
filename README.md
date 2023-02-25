@@ -1,6 +1,6 @@
 ### Hey, it's Zach!
 
-Currently, I'm lead engineer & cofounder @ [Wisiwig](https://wisiwig.co)! 
+Currently, I'm lead engineer & technical cofounder @ [Wisiwig](https://wisiwig.co)! 
 I enjoy building web applications and software infrastructure.
 
 - ✍️ *What I've been [writing](https://zachh.me/blog)*
